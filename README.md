@@ -23,7 +23,7 @@ public List<string> languages = new List<string>()
 <h1> :mailbox: You can find me here: </h1>
 <p>
 	<a href="https://www.linkedin.com/in/taina-maia-9aaa1a10a/"><img src="https://img.shields.io/badge/LinkedIn-106AC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="mailto:taina.cmaia@hotmail.com"><img src="https://img.shields.io/badge/email-7533cc?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Facebook"/></a>
+	<a href="mailto:tainacostamaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 <h1> :trophy: My Trophies and Contributions </h1>
