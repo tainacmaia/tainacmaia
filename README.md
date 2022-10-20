@@ -12,12 +12,18 @@ public List<string> languages = new List<string>()
     "Portuguese" 
 };
 ```
+<h1> :woman_technologist: Knowledges </h1>
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
+</p>
 <h1> :mailbox: You can find me here: </h1>
 <p>
 	<a href="https://www.linkedin.com/in/taina-maia-9aaa1a10a/"><img src="https://img.shields.io/badge/LinkedIn-106AC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/tainacmaia/"><img src="https://img.shields.io/badge/Instagram-7533cc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.facebook.com/TainaCMaia"><img src="https://img.shields.io/badge/Facebook-106AC4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="mailto:taina.cmaia@hotmail.com"><img src="https://img.shields.io/badge/email-7533cc?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 <h1> :trophy: My Trophies and Contributions </h1>
