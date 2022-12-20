@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JAVASCRIPT-e3e027?style=for-the-badge&logo=javascript&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/TYPESCRIPT-1572B6?style=for-the-badge&logo=typescript&logoColor=white" alt="CSS">
 </p>
 
 <h1 align="center"> :mailbox: Contact :mailbox:</h1>
