@@ -1,6 +1,6 @@
 <h1 align="center"> :sparkles: Welcome! :sparkles: </h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Studying-Full Stack Web Development-106AC4" /> 
+<img src="https://img.shields.io/badge/Educational Background-Full Stack Web Development-106AC4" /> 
 <img src="https://img.shields.io/badge/Country-Brazil-7533cc" /> </br>
 </p>
 
