@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </div>
 
-<h1 align="center"> Contact me </h1>
+<h1 align="center"> Social & Contact </h1>
 <p align="center">
 	<a href="https://www.linkedin.com/in/taina-maia-9aaa1a10a/"><img src="https://img.shields.io/badge/LinkedIn-106AC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:tainacostamaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
