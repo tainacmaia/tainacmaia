@@ -38,6 +38,7 @@
 	<a href="https://www.linkedin.com/in/taina-maia-9aaa1a10a/"><img src="https://img.shields.io/badge/LinkedIn-106AC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:tainacostamaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.dio.me/users/taina_cmaia"><img src="https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" alt="DIO"/></a>
+	<a href="https://www.cloudskillsboost.google/public_profiles/ecf914ab-35de-45a1-ab0d-b0c22262a92e"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Boost"/></a>
 </p>
 
 <h1 align="center"> :trophy: My Trophies and Contributions :trophy:</h1>
