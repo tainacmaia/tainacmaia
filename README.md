@@ -41,6 +41,10 @@
 	<a href="https://www.dio.me/users/taina_cmaia"><img src="https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" alt="DIO"/></a>
 	<a href="https://www.cloudskillsboost.google/public_profiles/ecf914ab-35de-45a1-ab0d-b0c22262a92e"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Boost"/></a>
 </p>
+<h1 align="center"> :scroll: Certifications :scroll: </h1>
+<div align="center">
+	<a href="https://web.dio.me/track/santander-2024-fundamentos-de-ia-para-devs"><img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="70">
+</div>
 
 <h1 align="center"> :trophy: My Trophies and Contributions :trophy:</h1>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tainacmaia&layout=compact&langs_count=7&theme=slateorange&title_color=7533cc&icon_color=7533cc&bg_color=02101F&border_color=323232" alt="tainacmaia-top-langs" /></p>
