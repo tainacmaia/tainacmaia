@@ -41,9 +41,10 @@
 	<a href="https://www.dio.me/users/taina_cmaia"><img src="https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" alt="DIO"/></a>
 	<a href="https://www.cloudskillsboost.google/public_profiles/ecf914ab-35de-45a1-ab0d-b0c22262a92e"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Boost"/></a>
 </p>
-<h1 align="center"> :scroll: Certifications :scroll: </h1>
+<h1 align="center"> :scroll: Certificates :scroll: </h1>
 <div align="center">
 	<a href="https://www.dio.me/certificate/FGNY8BJK"><img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="70" alt="Fundamentos de IA para Devs">
+	<a href="https://drive.google.com/file/d/1Ecw8VBrHA9V3HakSKTt-Xk6NSyA0YZeT/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1g1mU_XBRT2sgofAeVdWb0_UpDk8G-iVD" height="70" alt="Web Full Stack - Top Coders">
 	<a href="https://www.dio.me/certificate/UUIQRAJQ"><img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" height="70" alt="Versionamento de Código com Git e GitHub">
 </div>
 
