@@ -43,7 +43,8 @@
 </p>
 <h1 align="center"> :scroll: Certifications :scroll: </h1>
 <div align="center">
-	<a href="https://web.dio.me/track/santander-2024-fundamentos-de-ia-para-devs"><img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="70">
+	<a href="https://www.dio.me/certificate/FGNY8BJK"><img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="70" alt="Fundamentos de IA para Devs">
+	<a href="https://www.dio.me/certificate/UUIQRAJQ"><img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" height="70" alt="Versionamento de Código com Git e GitHub">
 </div>
 
 <h1 align="center"> :trophy: My Trophies and Contributions :trophy:</h1>
