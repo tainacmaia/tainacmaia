@@ -11,7 +11,7 @@
     	</tr>
 	  	<tr align="left">
       		<td><b>Current Job</b></td>
-     	 	<td>Systems Architect (2022)</td>
+     	 	<td>Systems Architect (2024)</td>
     	</tr>
 	<tr align="left">
       		<td><b>Studying</b></td>
