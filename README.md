@@ -6,8 +6,12 @@
      	 	<td>Full Stack Web Development (2022)</td>
     	</tr>
 	<tr align="left">
-      		<td><b>Current Job</b></td>
+      		<td><b>Previous Job</b></td>
      	 	<td>Software Development Analyst (2022)</td>
+    	</tr>
+	  	<tr align="left">
+      		<td><b>Current Job</b></td>
+     	 	<td>Systems Architect (2022)</td>
     	</tr>
 	<tr align="left">
       		<td><b>Studying</b></td>
