@@ -7,11 +7,12 @@
     	</tr>
 	<tr align="left">
       		<td><b>Previous Job</b></td>
-     	 	<td>Software Development Analyst (2022)</td>
+     	 	<td>Software Development Analyst (2022-2024)</td>
+        <td>Systems Architect (2024-2025)</td>
     	</tr>
 	  	<tr align="left">
       		<td><b>Current Job</b></td>
-     	 	<td>Systems Architect (2024)</td>
+     	 	<td>Software Engineer (2026)</td>
     	</tr>
 	<tr align="left">
       		<td><b>Studying</b></td>
